@@ -23,6 +23,7 @@ If you're a GM, the module will hide some of the information displayed to preven
 - Extract the zip folder
 - Remove "-main" from the extracted folder name
 - Copy the entire folder to your modules folder
+
 I'm not going through the process of fully releasing this module.
 
 ## How to Use
