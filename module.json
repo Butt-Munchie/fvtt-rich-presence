@@ -39,7 +39,6 @@
   "bugs": "https://github.com/JeidoUran/fvtt-rich-presence/issues",
   "compatibility": {
     "minimum": "12.331",
-    "verified": "13.342",
-    "maximum": "13"
+    "verified": "14"
   }
 }
