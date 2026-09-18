@@ -4,6 +4,7 @@
 ![Static Badge](https://img.shields.io/badge/D&D5e%20Minimum-4.3.9-orange)
 ![Static Badge](https://img.shields.io/badge/D&D5e%20Verified-5.0.1-lightgreen)
 ![Static Badge](https://img.shields.io/badge/PF2e%20Verified-6.12.1-lightgreen)
+![Static Badge](https://img.shields.io/badge/MOSH%20Verified-0.6.1-lightgreen)
 ![Static Badge](https://img.shields.io/badge/License-MIT-yellow)
 
 A Foundry VTT module that enables Discord Rich Presence on a Foundry world. It sends some information about the user such as class, level, or whether they're currently in a battle or not.
