@@ -1,6 +1,6 @@
 # Foundry VTT Rich Presence
 ![Static Badge](https://img.shields.io/badge/Foundry%20Minimum-12.331-orange)
-![Static Badge](https://img.shields.io/badge/Foundry%20Verified-13.442-lightgreen)
+![Static Badge](https://img.shields.io/badge/Foundry%20Verified-14-lightgreen)
 ![Static Badge](https://img.shields.io/badge/D&D5e%20Minimum-4.3.9-orange)
 ![Static Badge](https://img.shields.io/badge/D&D5e%20Verified-5.0.1-lightgreen)
 ![Static Badge](https://img.shields.io/badge/PF2e%20Verified-6.12.1-lightgreen)
