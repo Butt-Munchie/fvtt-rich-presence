@@ -9,7 +9,7 @@
 
 A Foundry VTT module that enables Discord Rich Presence on a Foundry world. It sends some information about the user such as class, level, or whether they're currently in a battle or not.
 
-**Note: In order to use this module, you also need to be using my fork of [FVTT Desktop Client](https://github.com/JeidoUran/fvtt-player-client), as it contains the necessary code to send the data exposed by this module to Discord.**
+**Note: In order to use this module, you also need to be using Silvestrae's fork of [FVTT Desktop Client](https://github.com/Silvestrae/ve-foundry-client), as it contains the necessary code to send the data exposed by this module to Discord.**
 
 The module has been tested on the D&D5e and PF2e game systems. I do not know how well or if it would work at all on other systems.
 
@@ -26,7 +26,7 @@ If you're a GM, the module will hide some of the information displayed to preven
      https://github.com/JeidoUran/fvtt-rich-presence/releases/latest/download/module.json
      ```
 ## How to Use
-- Launch the [FVTT Desktop Client](https://github.com/JeidoUran/fvtt-player-client).
+- Launch the [FVTT Desktop Client](https://github.com/Silvestrae/ve-foundry-client).
 - Open the **Client Configuration** and make sure **Enable Discord Rich Presence** is checked.
 ![image](https://github.com/user-attachments/assets/c6c7b2e8-d4d9-4d72-9ea7-8242e350f948)
 - Log in to your Foundry VTT World.
