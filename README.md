@@ -19,12 +19,12 @@ The module has been tested on the D&D5e and PF2e game systems. I do not know how
 If you're a GM, the module will hide some of the information displayed to prevent spoilers.
 
 ## Installation
-- Open Foundry VTT, then navigate to the **Add-on Modules** tab.
-- Click the **Install Module** button, a new window will open.
-- In the **Manifest URL** field, at the very bottom of the window, paste the following URL:
-     ``` 
-     https://github.com/JeidoUran/fvtt-rich-presence/releases/latest/download/module.json
-     ```
+- Download the repo as a zip file
+- Extract the zip folder
+- Remove "-main" from the extracted folder name
+- Copy the entire folder to your modules folder
+I'm not going through the process of fully releasing this module.
+
 ## How to Use
 - Launch the [FVTT Desktop Client](https://github.com/Silvestrae/ve-foundry-client).
 - Open the **Client Configuration** and make sure **Enable Discord Rich Presence** is checked.
